@@ -37,6 +37,7 @@
 | CNVD-2026-13723 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 |
 | CNVD-2026-21936 | OpeniLink Hub | [![Stars](https://img.shields.io/github/stars/openilink/openilink-hub?style=social)](https://github.com/openilink/openilink-hub) | 逻辑缺陷 |
 | CNVD-2026-20061 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 命令执行 |
+| CNVD-2026-12995 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 命令执行 |
 | CNVD-2026-13674 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 信息泄露 |
 | CNVD-2026-15083 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 信息泄露 |
 | CNVD-2025-14906 | Tduck 填鸭表单 | [![Stars](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social)](https://github.com/TDuckCloud/tduck-platform) | SQL 注入 |
@@ -61,7 +62,6 @@
 | CNVD-2026-21911 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
 | CNVD-2026-14017 | GFast | [![Stars](https://img.shields.io/github/stars/tiger1103/gfast?style=social)](https://github.com/tiger1103/gfast) | SQL 注入 |
 | CNVD-2026-13727 | GFast | [![Stars](https://img.shields.io/github/stars/tiger1103/gfast?style=social)](https://github.com/tiger1103/gfast) | 信息泄露 |
-| CNVD-2026-12995 | open-admin | — | 命令执行 |
 | CNVD-2026-24649 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-brightgreen)](https://gitee.com/XM-GO/PandaX) | 信息泄露 |
 | CNVD-2026-24647 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-brightgreen)](https://gitee.com/XM-GO/PandaX) | 逻辑缺陷 |
 | CNVD-2026-24648 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-brightgreen)](https://gitee.com/XM-GO/PandaX) | 任意文件读取 |
