@@ -13,8 +13,8 @@
 
 <div align="center">
 
-### **CodeAuditSkill 已成功发现并获得 43 个 CNVD 编号 **
-### **涉及 23 个知名开源项目**
+### CodeAuditSkill 已成功发现并获得 43 个 CNVD 编号 
+### 涉及 23 个知名开源项目
 
 </div>
 
