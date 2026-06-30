@@ -9,8 +9,73 @@
 
 ---
 
+## 🏆 CNVD 漏洞发现
+
+<div align="center">
+
+### **CodeAuditSkill 已成功发现并获得 43 个 CNVD 编号 🦞**
+### **涉及 23 个知名开源项目**
+
+</div>
+
+| CNVD 编号 | 项目 | 项目热度 | 漏洞类型 |
+|:---|:---|:---:|:---|
+| CNVD-2026-14238 | 思源笔记 | [![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social)](https://github.com/siyuan-note/siyuan) | 文件上传 |
+| CNVD-2026-20847 | RuoYi-Vue-Pro | [![Stars](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro?style=social)](https://github.com/YunaiV/ruoyi-vue-pro) | SQL 注入 |
+| CNVD-2026-21809 | ai-goofish-monitor | [![Stars](https://img.shields.io/github/stars/Usagi-org/ai-goofish-monitor?style=social)](https://github.com/Usagi-org/ai-goofish-monitor) | 未授权访问 |
+| CNVD-2026-21941 | SQLBot | [![Stars](https://img.shields.io/github/stars/dataease/SQLBot?style=social)](https://github.com/dataease/SQLBot) | 未授权访问 |
+| CNVD-2026-14195 | WebDAV | [![Stars](https://img.shields.io/github/stars/hacdias/webdav?style=social)](https://github.com/hacdias/webdav) | 拒绝服务 |
+| CNVD-2026-14196 | WebDAV | [![Stars](https://img.shields.io/github/stars/hacdias/webdav?style=social)](https://github.com/hacdias/webdav) | 逻辑缺陷 |
+| CNVD-2025-15886 | QloApps | [![Stars](https://img.shields.io/github/stars/Qloapps/QloApps?style=social)](https://github.com/Qloapps/QloApps) | SQL 注入 |
+| CNVD-2026-21933 | OneNav | [![Stars](https://img.shields.io/github/stars/helloxz/onenav?style=social)](https://github.com/helloxz/onenav) | SQL 注入 |
+| CNVD-2026-21932 | OneNav | [![Stars](https://img.shields.io/github/stars/helloxz/onenav?style=social)](https://github.com/helloxz/onenav) | SQL 注入 |
+| CNVD-2026-23524 | Cordys CRM | [![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=social)](https://github.com/1Panel-dev/CordysCRM) | 逻辑缺陷 |
+| CNVD-2026-12934 | Cordys CRM | [![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=social)](https://github.com/1Panel-dev/CordysCRM) | SQL 注入 |
+| CNVD-2026-13890 | Sonic | [![Stars](https://img.shields.io/github/stars/go-sonic/sonic?style=social)](https://github.com/go-sonic/sonic) | 逻辑缺陷 |
+| CNVD-2026-13697 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 逻辑缺陷 |
+| CNVD-2026-13724 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 |
+| CNVD-2026-13723 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 |
+| CNVD-2026-21936 | OpeniLink Hub | [![Stars](https://img.shields.io/github/stars/openilink/openilink-hub?style=social)](https://github.com/openilink/openilink-hub) | 逻辑缺陷 |
+| CNVD-2026-20061 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 命令执行 |
+| CNVD-2026-13674 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 信息泄露 |
+| CNVD-2026-15083 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 信息泄露 |
+| CNVD-2025-14906 | Tduck 填鸭表单 | [![Stars](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social)](https://github.com/TDuckCloud/tduck-platform) | SQL 注入 |
+| CNVD-2026-21910 | AnQiCMS | [![Stars](https://img.shields.io/github/stars/fesiong/anqicms?style=social)](https://github.com/fesiong/anqicms) | 逻辑缺陷 |
+| CNVD-2026-21909 | AnQiCMS | [![Stars](https://img.shields.io/github/stars/fesiong/anqicms?style=social)](https://github.com/fesiong/anqicms) | 任意文件读取 |
+| CNVD-2026-21908 | AnQiCMS | [![Stars](https://img.shields.io/github/stars/fesiong/anqicms?style=social)](https://github.com/fesiong/anqicms) | SQL 注入 |
+| CNVD-2026-21927 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 逻辑缺陷 |
+| CNVD-2026-21926 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 逻辑缺陷 |
+| CNVD-2026-21925 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 未授权访问 |
+| CNVD-2026-21924 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 未授权访问 |
+| CNVD-2026-25468 | OpenOcta | [![Stars](https://img.shields.io/github/stars/openocta/openocta?style=social)](https://github.com/openocta/openocta) | 命令执行 |
+| CNVD-2026-24513 | KiwiFS | [![Stars](https://img.shields.io/github/stars/kiwifs/kiwifs?style=social)](https://github.com/kiwifs/kiwifs) | SQL 注入 |
+| CNVD-2026-21930 | Komari | [![Stars](https://img.shields.io/github/stars/komari-monitor/komari?style=social)](https://github.com/komari-monitor/komari) | 拒绝服务 |
+| CNVD-2026-23545 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-23544 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-23132 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-23131 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-23109 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-23018 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 目录遍历 |
+| CNVD-2026-23017 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-21912 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-21911 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
+| CNVD-2026-14017 | GFast | [![Stars](https://img.shields.io/github/stars/tiger1103/gfast?style=social)](https://github.com/tiger1103/gfast) | SQL 注入 |
+| CNVD-2026-13727 | GFast | [![Stars](https://img.shields.io/github/stars/tiger1103/gfast?style=social)](https://github.com/tiger1103/gfast) | 信息泄露 |
+| CNVD-2026-12995 | open-admin | — | 命令执行 |
+| CNVD-2026-24649 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-brightgreen)](https://gitee.com/XM-GO/PandaX) | 信息泄露 |
+| CNVD-2026-24647 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-brightgreen)](https://gitee.com/XM-GO/PandaX) | 逻辑缺陷 |
+| CNVD-2026-24648 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-brightgreen)](https://gitee.com/XM-GO/PandaX) | 任意文件读取 |
+| CNVD-2026-24514 | NexIoT AI 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-1.4K-brightgreen)](https://gitee.com/NexIoT/nexiot) | SQL 注入 |
+
+> *以上漏洞由 CodeAuditSkill 自动化审计发现，经人工确认后提交 CNVD*
+
+> 如果您使用 CodeAuditSkill 发现了漏洞，欢迎在 [Issues](https://github.com/zhiyuwang720-dev/CodeAuditSkill/issues) 中留言反馈！
+
+---
+
 ## 目录
 
+- [🏆 CNVD 漏洞发现](#-cnvd-漏洞发现)
 - [设计理念](#设计理念)
 - [审计流水线](#审计流水线)
 - [核心设计](#核心设计)
@@ -386,67 +451,6 @@ skills/web-vuln-audit/
 
 ---
 
-## 🏆 CNVD 漏洞发现
-
-<div align="center">
-
-### **CodeAuditSkill 已成功发现并获得 43 个 CNVD 编号 🦞**
-### **涉及 23 个知名开源项目**
-
-</div>
-
-| CNVD 编号 | 项目 | 项目热度 | 漏洞类型 |
-|:---|:---|:---:|:---|
-| CNVD-2026-25468 | OpenOcta | [![Stars](https://img.shields.io/github/stars/openocta/openocta?style=social)](https://github.com/openocta/openocta) | 命令执行 |
-| CNVD-2026-24649 | PandaX 物联网平台 | [⭐ 2.2K](https://gitee.com/XM-GO/PandaX) | 信息泄露 |
-| CNVD-2026-24647 | PandaX 物联网平台 | [⭐ 2.2K](https://gitee.com/XM-GO/PandaX) | 逻辑缺陷 |
-| CNVD-2026-24648 | PandaX 物联网平台 | [⭐ 2.2K](https://gitee.com/XM-GO/PandaX) | 任意文件读取 |
-| CNVD-2026-24514 | NexIoT AI 物联网平台 | [⭐ 1.4K](https://gitee.com/NexIoT/nexiot) | SQL 注入 |
-| CNVD-2026-24513 | KiwiFS | [![Stars](https://img.shields.io/github/stars/kiwifs/kiwifs?style=social)](https://github.com/kiwifs/kiwifs) | SQL 注入 |
-| CNVD-2026-23545 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-23544 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-23132 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-23131 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-23109 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-23018 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 目录遍历 |
-| CNVD-2026-23017 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-21912 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-21911 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
-| CNVD-2026-21927 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 逻辑缺陷 |
-| CNVD-2026-21926 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 逻辑缺陷 |
-| CNVD-2026-21925 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 未授权访问 |
-| CNVD-2026-21924 | fuint 会员营销系统 | [![Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social)](https://github.com/fushengqian/fuint) | 未授权访问 |
-| CNVD-2026-21941 | SQLBot | [![Stars](https://img.shields.io/github/stars/dataease/SQLBot?style=social)](https://github.com/dataease/SQLBot) | 未授权访问 |
-| CNVD-2026-21930 | Komari | [![Stars](https://img.shields.io/github/stars/komari-monitor/komari?style=social)](https://github.com/komari-monitor/komari) | 拒绝服务 |
-| CNVD-2026-21910 | AnQiCMS | [![Stars](https://img.shields.io/github/stars/fesiong/anqicms?style=social)](https://github.com/fesiong/anqicms) | 逻辑缺陷 |
-| CNVD-2026-21909 | AnQiCMS | [![Stars](https://img.shields.io/github/stars/fesiong/anqicms?style=social)](https://github.com/fesiong/anqicms) | 任意文件读取 |
-| CNVD-2026-21908 | AnQiCMS | [![Stars](https://img.shields.io/github/stars/fesiong/anqicms?style=social)](https://github.com/fesiong/anqicms) | SQL 注入 |
-| CNVD-2026-21933 | OneNav | [![Stars](https://img.shields.io/github/stars/helloxz/onenav?style=social)](https://github.com/helloxz/onenav) | SQL 注入 |
-| CNVD-2026-21932 | OneNav | [![Stars](https://img.shields.io/github/stars/helloxz/onenav?style=social)](https://github.com/helloxz/onenav) | SQL 注入 |
-| CNVD-2026-21809 | ai-goofish-monitor | [![Stars](https://img.shields.io/github/stars/Usagi-org/ai-goofish-monitor?style=social)](https://github.com/Usagi-org/ai-goofish-monitor) | 未授权访问 |
-| CNVD-2026-20847 | RuoYi-Vue-Pro | [![Stars](https://img.shields.io/github/stars/YunaiV/ruoyi-vue-pro?style=social)](https://github.com/YunaiV/ruoyi-vue-pro) | SQL 注入 |
-| CNVD-2026-21936 | OpeniLink Hub | [![Stars](https://img.shields.io/github/stars/openilink/openilink-hub?style=social)](https://github.com/openilink/openilink-hub) | 逻辑缺陷 |
-| CNVD-2026-23524 | Cordys CRM | [![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=social)](https://github.com/1Panel-dev/CordysCRM) | 逻辑缺陷 |
-| CNVD-2026-12934 | Cordys CRM | [![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=social)](https://github.com/1Panel-dev/CordysCRM) | SQL 注入 |
-| CNVD-2026-20061 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 命令执行 |
-| CNVD-2026-13674 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 信息泄露 |
-| CNVD-2026-15083 | ovpn-admin | [![Stars](https://img.shields.io/github/stars/flant/ovpn-admin?style=social)](https://github.com/flant/ovpn-admin) | 信息泄露 |
-| CNVD-2026-14195 | WebDAV (hacdias) | [![Stars](https://img.shields.io/github/stars/hacdias/webdav?style=social)](https://github.com/hacdias/webdav) | 拒绝服务 |
-| CNVD-2026-14196 | WebDAV (hacdias) | [![Stars](https://img.shields.io/github/stars/hacdias/webdav?style=social)](https://github.com/hacdias/webdav) | 逻辑缺陷 |
-| CNVD-2026-14017 | GFast | [![Stars](https://img.shields.io/github/stars/tiger1103/gfast?style=social)](https://github.com/tiger1103/gfast) | SQL 注入 |
-| CNVD-2026-13727 | GFast | [![Stars](https://img.shields.io/github/stars/tiger1103/gfast?style=social)](https://github.com/tiger1103/gfast) | 信息泄露 |
-| CNVD-2026-13890 | Sonic | [![Stars](https://img.shields.io/github/stars/go-sonic/sonic?style=social)](https://github.com/go-sonic/sonic) | 逻辑缺陷 |
-| CNVD-2026-13697 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 逻辑缺陷 |
-| CNVD-2026-13724 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 |
-| CNVD-2026-13723 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 |
-| CNVD-2026-14238 | 思源笔记 | [![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social)](https://github.com/siyuan-note/siyuan) | 文件上传 |
-| CNVD-2026-12995 | open-admin | — | 命令执行 |
-| CNVD-2025-15886 | QloApps | [![Stars](https://img.shields.io/github/stars/Qloapps/QloApps?style=social)](https://github.com/Qloapps/QloApps) | SQL 注入 |
-| CNVD-2025-14906 | Tduck 填鸭表单 | [![Stars](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social)](https://github.com/TDuckCloud/tduck-platform) | SQL 注入 |
-
-> *以上漏洞由 CodeAuditSkill 自动化审计发现，经人工确认后提交 CNVD*
-
-> 如果您使用 CodeAuditSkill 发现了漏洞，欢迎在 [Issues](https://github.com/zhiyuwang720-dev/CodeAuditSkill/issues) 中留言反馈！
 
 ---
 
