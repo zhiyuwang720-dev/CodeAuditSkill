@@ -397,10 +397,11 @@ skills/web-vuln-audit/
 
 | CNVD 编号 | 项目 | 项目热度 | 漏洞类型 |
 |:---|:---|:---:|:---|
-| CNVD-2026-24649 | PandaX 物联网平台 | [![Stars](https://img.shields.io/github/stars/PandaXGO/PandaX?style=social)](https://github.com/PandaXGO/PandaX) | 信息泄露 |
-| CNVD-2026-24647 | PandaX 物联网平台 | [![Stars](https://img.shields.io/github/stars/PandaXGO/PandaX?style=social)](https://github.com/PandaXGO/PandaX) | 逻辑缺陷 |
-| CNVD-2026-24648 | PandaX 物联网平台 | [![Stars](https://img.shields.io/github/stars/PandaXGO/PandaX?style=social)](https://github.com/PandaXGO/PandaX) | 任意文件读取 |
-| CNVD-2026-24514 | NexIoT AI 物联网平台 | — | SQL 注入 |
+| CNVD-2026-25468 | OpenOcta | [![Stars](https://img.shields.io/github/stars/openocta/openocta?style=social)](https://github.com/openocta/openocta) | 命令执行 |
+| CNVD-2026-24649 | PandaX 物联网平台 | [⭐ 2.2K](https://gitee.com/XM-GO/PandaX) | 信息泄露 |
+| CNVD-2026-24647 | PandaX 物联网平台 | [⭐ 2.2K](https://gitee.com/XM-GO/PandaX) | 逻辑缺陷 |
+| CNVD-2026-24648 | PandaX 物联网平台 | [⭐ 2.2K](https://gitee.com/XM-GO/PandaX) | 任意文件读取 |
+| CNVD-2026-24514 | NexIoT AI 物联网平台 | [⭐ 1.4K](https://gitee.com/NexIoT/nexiot) | SQL 注入 |
 | CNVD-2026-24513 | KiwiFS | [![Stars](https://img.shields.io/github/stars/kiwifs/kiwifs?style=social)](https://github.com/kiwifs/kiwifs) | SQL 注入 |
 | CNVD-2026-23545 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
 | CNVD-2026-23544 | Borg UI | [![Stars](https://img.shields.io/github/stars/karanhudia/borg-ui?style=social)](https://github.com/karanhudia/borg-ui) | 命令执行 |
@@ -440,7 +441,6 @@ skills/web-vuln-audit/
 | CNVD-2026-13723 | Go Ldap Admin | [![Stars](https://img.shields.io/github/stars/eryajf/go-ldap-admin?style=social)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 |
 | CNVD-2026-14238 | 思源笔记 | [![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social)](https://github.com/siyuan-note/siyuan) | 文件上传 |
 | CNVD-2026-12995 | open-admin | — | 命令执行 |
-| CNVD-2025-29773 | 盒木 ERP 社区版 | [![Stars](https://img.shields.io/github/stars/vebin/Himool-ERP?style=social)](https://github.com/vebin/Himool-ERP) | 逻辑缺陷 |
 | CNVD-2025-15886 | QloApps | [![Stars](https://img.shields.io/github/stars/Qloapps/QloApps?style=social)](https://github.com/Qloapps/QloApps) | SQL 注入 |
 | CNVD-2025-14906 | Tduck 填鸭表单 | [![Stars](https://img.shields.io/github/stars/TDuckCloud/tduck-platform?style=social)](https://github.com/TDuckCloud/tduck-platform) | SQL 注入 |
 
