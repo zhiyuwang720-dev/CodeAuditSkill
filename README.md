@@ -413,6 +413,9 @@ reports/
 ### 基本用法
 
 ```
+# 启动plan模式
+/plan
+
 # 对当前目录进行审计
 /web-vuln-audit
 
