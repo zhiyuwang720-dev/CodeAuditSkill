@@ -28,40 +28,40 @@
   | CNVD-2026-14196 | WebDAV | [![Stars](https://img.shields.io/badge/Stars-5.6K-green)](https://github.com/hacdias/webdav) | 逻辑缺陷 | 3.7 |
   | CNVD-2025-15886 | QloApps | [![Stars](https://img.shields.io/badge/Stars-13.9K-green)](https://github.com/Qloapps/QloApps) | SQL 注入 | 4.9 |
   | CNVD-2026-21930 | Komari | [![Stars](https://img.shields.io/badge/Stars-5.2K-green)](https://github.com/komari-monitor/komari) | 拒绝服务 | 3.7 |
-  | CNVD-2026-21933 | OneNav | [![Stars](https://img.shields.io/badge/Stars-3.1K-yellowgreen)](https://github.com/helloxz/onenav) | SQL 注入 | 4.9 |
-  | CNVD-2026-21932 | OneNav | [![Stars](https://img.shields.io/badge/Stars-3.1K-yellowgreen)](https://github.com/helloxz/onenav) | SQL 注入 | 4.9 |
-  | CNVD-2026-23524 | Cordys CRM | [![Stars](https://img.shields.io/badge/Stars-2.3K-yellowgreen)](https://github.com/1Panel-dev/CordysCRM) | 逻辑缺陷 | 5.5 |
-  | CNVD-2026-12934 | Cordys CRM | [![Stars](https://img.shields.io/badge/Stars-2.3K-yellowgreen)](https://github.com/1Panel-dev/CordysCRM) | SQL 注入 | 5.4 |
-  | CNVD-2026-13890 | Sonic | [![Stars](https://img.shields.io/badge/Stars-2.1K-yellowgreen)](https://github.com/go-sonic/sonic) | 逻辑缺陷 | 3.1 |
-  | CNVD-2026-13697 | Go Ldap Admin | [![Stars](https://img.shields.io/badge/Stars-1.5K-yellowgreen)](https://github.com/eryajf/go-ldap-admin) | 逻辑缺陷 | 3.1 |
-  | CNVD-2026-13724 | Go Ldap Admin | [![Stars](https://img.shields.io/badge/Stars-1.5K-yellowgreen)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 | 5.0 |
-  | CNVD-2026-13723 | Go Ldap Admin | [![Stars](https://img.shields.io/badge/Stars-1.5K-yellowgreen)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 | 5.0 |
-  | CNVD-2026-21936 | OpeniLink Hub | [![Stars](https://img.shields.io/badge/Stars-1.3K-yellowgreen)](https://github.com/openilink/openilink-hub) | 逻辑缺陷 | 3.1 |
-  | CNVD-2026-20061 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-yellowgreen)](https://github.com/flant/ovpn-admin) | 命令执行 | 10.0 |
-  | CNVD-2026-12995 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-yellowgreen)](https://github.com/flant/ovpn-admin) | 命令执行 | 7.8 |
-  | CNVD-2026-13674 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-yellowgreen)](https://github.com/flant/ovpn-admin) | 信息泄露 | 5.0 |
-  | CNVD-2026-15083 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-yellowgreen)](https://github.com/flant/ovpn-admin) | 信息泄露 | 5.0 |
-  | CNVD-2025-14906 | Tduck 填鸭表单 | [![Stars](https://img.shields.io/badge/Stars-1.1K-yellowgreen)](https://github.com/TDuckCloud/tduck-platform) | SQL 注入 | 7.8 |
-  | CNVD-2026-23545 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-23544 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-23132 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-23131 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-23109 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-23018 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 目录遍历 | 3.1 |
-  | CNVD-2026-23017 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-21912 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-21911 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-yellowgreen)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
-  | CNVD-2026-14017 | GFast | [![Stars](https://img.shields.io/badge/Stars-1.9k-yellowgreen)](https://github.com/tiger1103/gfast) | SQL 注入 | 4.9 |
-  | CNVD-2026-13727 | GFast | [![Stars](https://img.shields.io/badge/Stars-1.9k-yellowgreen)](https://github.com/tiger1103/gfast) | 信息泄露 | 5.5 |
-  | CNVD-2026-21927 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-yellowgreen)](https://github.com/fushengqian/fuint) | 逻辑缺陷 | 2.7 |
-  | CNVD-2026-21926 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-yellowgreen)](https://github.com/fushengqian/fuint) | 逻辑缺陷 | 2.7 |
-  | CNVD-2026-21925 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-yellowgreen)](https://github.com/fushengqian/fuint) | 未授权访问 | 5.5 |
-  | CNVD-2026-21924 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-yellowgreen)](https://github.com/fushengqian/fuint) | 未授权访问 | 5.5 |
-  | CNVD-2026-24649 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-yellowgreen)](https://gitee.com/XM-GO/PandaX) | 信息泄露 | 3.1 |
-  | CNVD-2026-24647 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-yellowgreen)](https://gitee.com/XM-GO/PandaX) | 逻辑缺陷 | 3.1 |
-  | CNVD-2026-24648 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-yellowgreen)](https://gitee.com/XM-GO/PandaX) | 任意文件读取 | 5.5 |
-  | CNVD-2026-24514 | NexIoT AI 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-1.4K-yellowgreen)](https://gitee.com/NexIoT/nexiot) | SQL 注入 | 7.8 |
-  | CNVD-2026-25468 | OpenOcta | [![Stars](https://img.shields.io/badge/Stars-2.9K-yellowgreen)](https://github.com/openocta/openocta) | 命令执行 | 7.1 |
+  | CNVD-2026-21933 | OneNav | [![Stars](https://img.shields.io/badge/Stars-3.1K-green)](https://github.com/helloxz/onenav) | SQL 注入 | 4.9 |
+  | CNVD-2026-21932 | OneNav | [![Stars](https://img.shields.io/badge/Stars-3.1K-green)](https://github.com/helloxz/onenav) | SQL 注入 | 4.9 |
+  | CNVD-2026-23524 | Cordys CRM | [![Stars](https://img.shields.io/badge/Stars-2.3K-green)](https://github.com/1Panel-dev/CordysCRM) | 逻辑缺陷 | 5.5 |
+  | CNVD-2026-12934 | Cordys CRM | [![Stars](https://img.shields.io/badge/Stars-2.3K-green)](https://github.com/1Panel-dev/CordysCRM) | SQL 注入 | 5.4 |
+  | CNVD-2026-13890 | Sonic | [![Stars](https://img.shields.io/badge/Stars-2.1K-green)](https://github.com/go-sonic/sonic) | 逻辑缺陷 | 3.1 |
+  | CNVD-2026-13697 | Go Ldap Admin | [![Stars](https://img.shields.io/badge/Stars-1.5K-green)](https://github.com/eryajf/go-ldap-admin) | 逻辑缺陷 | 3.1 |
+  | CNVD-2026-13724 | Go Ldap Admin | [![Stars](https://img.shields.io/badge/Stars-1.5K-green)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 | 5.0 |
+  | CNVD-2026-13723 | Go Ldap Admin | [![Stars](https://img.shields.io/badge/Stars-1.5K-green)](https://github.com/eryajf/go-ldap-admin) | 信息泄露 | 5.0 |
+  | CNVD-2026-21936 | OpeniLink Hub | [![Stars](https://img.shields.io/badge/Stars-1.3K-green)](https://github.com/openilink/openilink-hub) | 逻辑缺陷 | 3.1 |
+  | CNVD-2026-20061 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-green)](https://github.com/flant/ovpn-admin) | 命令执行 | 10.0 |
+  | CNVD-2026-12995 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-green)](https://github.com/flant/ovpn-admin) | 命令执行 | 7.8 |
+  | CNVD-2026-13674 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-green)](https://github.com/flant/ovpn-admin) | 信息泄露 | 5.0 |
+  | CNVD-2026-15083 | ovpn-admin | [![Stars](https://img.shields.io/badge/Stars-2K-green)](https://github.com/flant/ovpn-admin) | 信息泄露 | 5.0 |
+  | CNVD-2025-14906 | Tduck 填鸭表单 | [![Stars](https://img.shields.io/badge/Stars-1.1K-green)](https://github.com/TDuckCloud/tduck-platform) | SQL 注入 | 7.8 |
+  | CNVD-2026-23545 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-23544 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-23132 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-23131 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-23109 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-23018 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 目录遍历 | 3.1 |
+  | CNVD-2026-23017 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-21912 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-21911 | Borg UI | [![Stars](https://img.shields.io/badge/Stars-1.5k-green)](https://github.com/karanhudia/borg-ui) | 命令执行 | 7.1 |
+  | CNVD-2026-14017 | GFast | [![Stars](https://img.shields.io/badge/Stars-1.9k-green)](https://github.com/tiger1103/gfast) | SQL 注入 | 4.9 |
+  | CNVD-2026-13727 | GFast | [![Stars](https://img.shields.io/badge/Stars-1.9k-green)](https://github.com/tiger1103/gfast) | 信息泄露 | 5.5 |
+  | CNVD-2026-21927 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-green)](https://github.com/fushengqian/fuint) | 逻辑缺陷 | 2.7 |
+  | CNVD-2026-21926 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-green)](https://github.com/fushengqian/fuint) | 逻辑缺陷 | 2.7 |
+  | CNVD-2026-21925 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-green)](https://github.com/fushengqian/fuint) | 未授权访问 | 5.5 |
+  | CNVD-2026-21924 | fuint 会员营销系统 | [![Stars](https://img.shields.io/badge/Stars-1.7K-green)](https://github.com/fushengqian/fuint) | 未授权访问 | 5.5 |
+  | CNVD-2026-24649 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-green)](https://gitee.com/XM-GO/PandaX) | 信息泄露 | 3.1 |
+  | CNVD-2026-24647 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-green)](https://gitee.com/XM-GO/PandaX) | 逻辑缺陷 | 3.1 |
+  | CNVD-2026-24648 | PandaX 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-2.2K-green)](https://gitee.com/XM-GO/PandaX) | 任意文件读取 | 5.5 |
+  | CNVD-2026-24514 | NexIoT AI 物联网平台 | [![Stars](https://img.shields.io/badge/Stars-1.4K-green)](https://gitee.com/NexIoT/nexiot) | SQL 注入 | 7.8 |
+  | CNVD-2026-25468 | OpenOcta | [![Stars](https://img.shields.io/badge/Stars-2.9K-green)](https://github.com/openocta/openocta) | 命令执行 | 7.1 |
   | CNVD-2026-21910 | AnQiCMS | [![Stars](https://img.shields.io/badge/Stars-537-yellow)](https://github.com/fesiong/anqicms) | 逻辑缺陷 | 3.1 |
   | CNVD-2026-21909 | AnQiCMS | [![Stars](https://img.shields.io/badge/Stars-537-yellow)](https://github.com/fesiong/anqicms) | 任意文件读取 | 5.5 |
   | CNVD-2026-21908 | AnQiCMS | [![Stars](https://img.shields.io/badge/Stars-537-yellow)](https://github.com/fesiong/anqicms) | SQL 注入 | 4.9 |
